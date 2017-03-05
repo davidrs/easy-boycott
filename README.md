@@ -6,7 +6,7 @@ Initial focus is boycotting companies that use prison labour, but could be expan
 TODO:
 - How to best hilight / hide companies?
 - list of companies?
-- put in app store
+- put in app store: https://developer.chrome.com/webstore/publish
 
 
 TO Install
