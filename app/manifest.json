@@ -1,0 +1,14 @@
+{
+  "name" : "Easy Boycott",
+  "version" : "0.2",
+  "description" : "Easy to boycott companies that use prison labour.",
+  "content_scripts": [
+    {
+      "matches": ["http://*/*","https://*/*"],
+      "css": ["basic.css"],
+      "js": ["jquery.min.js", "contentscript.js"]
+    }
+  ],
+  "manifest_version": 2
+}
+
