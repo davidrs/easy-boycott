@@ -1,7 +1,6 @@
-// Sources
-// Please don't hesitate to send a pull request to add or remove companies from the list.
-// Please include a source for any additions.
-var COMPANIES = ["Victoria's Secret", "IBM", "McDonald", "JCPenney"];
+// Sources: https://docs.google.com/spreadsheets/d/1qLCwqBs6-7eLP8OL_9B4f5dXTy_QaRRDlpnxPNTC5MQ/edit#gid=0
+// Please don't hesitate to  add comments to suggest updates to the list.
+var COMPANIES = ["Victoria's Secret", "Victoria Secret", "IBM", "McDonald", "JCPenney"];
 
 
 $(document).ready(function() {
@@ -12,8 +11,8 @@ $(document).ready(function() {
         foundin.css("background-color", "black");
         foundin.css("color", "white");
         foundin.css("text-decoration", "line-through");
-        console.log(foundin);
-        console.log(company);
+        // console.log(foundin);
+        // console.log(company);
     });
   });
   // Loading an image code was not working and crashing extension.

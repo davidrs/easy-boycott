@@ -1,7 +1,7 @@
 {
   "name" : "Easy Boycott",
   "version" : "0.2",
-  "description" : "Easy to boycott companies that use prison labour.",
+  "description" : "This app will hilight companies that use prison labour, making it easy to be a more socially conscious shopper.",
   "content_scripts": [
     {
       "matches": ["http://*/*","https://*/*"],
@@ -9,6 +9,7 @@
       "js": ["jquery.min.js", "contentscript.js"]
     }
   ],
+  "icons": { "16": "icon-16.png", "128": "icon-128.png" }
   "manifest_version": 2
 }
 
