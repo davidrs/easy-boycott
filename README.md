@@ -16,9 +16,10 @@ Netflix Documentary [https://www.youtube.com/watch?v=V66F3WU2CKk]
 
 ## Future Features:
 - How to best hilight / hide companies?
-- put in app store
 - Ability to one click tweet/share when you would have bought from a company, but boycott instead due to their use of prison labour.
 - Ability to view the full company list from within the app.
+- put in app store: https://developer.chrome.com/webstore/publish
+
 
 
 ## TO Install
