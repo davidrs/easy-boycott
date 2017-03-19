@@ -6,7 +6,7 @@ Initial focus is boycotting companies that use prison labour, but could be expan
 ## Why Prison Labour?
 It is essentially moden day, government endorsed, slavery. 
 Protected by the dated notion that people convicted of crimes no longer have rights.
-As the 13th amendment says: "Neither slavery nor involuntary servitude, *except as punishment for crime*...". I think job training and work experience are incredibly important pieces of rehabilitation and integration, but if someone is doing work they deserve at least minimum wage.
+As the 13th amendment says: "Neither slavery nor involuntary servitude, *except as punishment for crime*...". I think job training and work experience are incredibly important pieces of rehabilitation and integration, but if someone is doing work they deserve at least minimum wage, not $0.23 - $1.15 [http://money.cnn.com/2012/08/14/smallbusiness/federal-prison-business/]. 
 
 This app makes it easy to identify and boycott companies that use prison labour, while browsing online.
 
@@ -29,3 +29,5 @@ Netflix Documentary [https://www.youtube.com/watch?v=V66F3WU2CKk]
 - Select 'load unpacked extension..'
 - Select the 'app' folder you downloaded
 - Done!
+
+## This app does not reflect the views of any contributors employers. The companies listed are based on best sources avaiable, and we are happy to make any corrections immediately if information is innacurate.
