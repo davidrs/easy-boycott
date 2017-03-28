@@ -3,6 +3,8 @@ A Chrome Extension to make it easy to boycott companies.
 
 Initial focus is boycotting companies that use prison labour, but could be expanded to support various campaigns users could opt-in to.
 
+Alpha App[https://chrome.google.com/webstore/detail/easy-boycott/mlcmefgfkgihjoeambhmhbedgiknfokh]
+
 ## Why Prison Labour?
 It is essentially moden day, government endorsed, slavery. 
 Protected by the dated notion that people convicted of crimes no longer have rights.
